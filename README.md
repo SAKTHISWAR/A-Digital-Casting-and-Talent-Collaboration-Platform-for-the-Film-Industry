@@ -47,7 +47,7 @@ Activity logs for accountability.
 
 ## System Architecture
 
-![image](https://github.com/SAKTHISWAR/Resume-Analyser-with-AI/blob/main/Arch.png)
+![image](https://github.com/SAKTHISWAR/A-Digital-Casting-and-Talent-Collaboration-Platform-for-the-Film-Industry/blob/main/Architecture%20Diagram.png)
 
 ## Output
 
