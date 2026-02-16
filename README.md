@@ -4,33 +4,33 @@ The film industry is a highly dynamic and collaborative domain that depends on e
 To address these challenges, this project proposes CineSync, a Digital Casting and Talent Collaboration Platform for the Film Industry. CineSync is designed as a domain-specific solution that integrates professional networking, talent discovery, and production collaboration into a single, secure, and centralized platform. The system enables artists to showcase verified portfolios, casting directors to manage auditions efficiently, and producers to oversee collaboration workflows in real time. Role-based user profiles ensure that interactions remain relevant and professionally structured, improving trust and authenticity within the platform.
 
 ## Features
-#### Centralized Professional Networking Platform
+#### Centralized Professional Networking Platform:
 Dedicated platform exclusively for film industry professionals. 
 Role-based user registration (Actor, Director, Producer, Casting Director, Technician, etc.)
 Structured professional profiles instead of generic social media pages.
-#### Digital Talent Portfolio Management
+#### Digital Talent Portfolio Management:
 Categorized portfolio sections for easy viewing.
-#### Professional Verification System
+#### Professional Verification System:
 Profile verification badges for authenticity.
 Industry credential validation.
 Prevention of fake profiles.
 Verified casting calls only.
-#### Structured Casting Management System
+#### Structured Casting Management System:
 Direct online application for roles.
 Application tracking system.
 Shortlisting and selection dashboard.
-#### In-Website Communication System
+#### In-Website Communication System:
 Role-based messaging.
 Project-specific chat rooms.
-#### Production Workflow Tracking
+#### Production Workflow Tracking:
 Collaboration timeline management.
 Task assignment for team members.
-#### Project & Collaboration Management
+#### Project & Collaboration Management:
 Create and manage multiple projects.
 Invite team members.
 Assign roles & responsibilities.
 Track participation history.
-#### Secure & Transparent System
+#### Secure & Transparent System:
 Data privacy protection.
 Secure file sharing.
 Transparent casting updates.
@@ -59,9 +59,13 @@ The CineSync – Digital Casting and Talent Collaboration Platform was developed
 
 ## Articles published / References
 [1] D. M. Boyd and N. B. Ellison, “Social network sites: Definition, history, and scholarship,” Journal of Computer-Mediated Communication, vol. 13, no. 1, pp. 210–230, 2017.
+
 [2] R. Singh, “An analytical study of digital networking tools in professional collaboration,” International Journal of Digital Communication, vol. 6, no. 2, pp. 34–45, 2021.
+
 [3] S. Khan and T. Singh, “Digital transformation in film production: Challenges and opportunities,” International Journal of Creative Media, pp. 55–63, 2022.
+
 [4] X. Li and F. Zhao, “Digital talent management framework for workforce optimization,” Journal of Human Resource Analytics, vol. 9, no. 3, pp. 112–124, 2021.
+
 [5] X. Li and F. Zhao, “Collaborative platforms and workflow management for creative industries,” Journal of Media Management Studies, vol. 7, no. 2, pp. 88–99, 2022.
 
 
