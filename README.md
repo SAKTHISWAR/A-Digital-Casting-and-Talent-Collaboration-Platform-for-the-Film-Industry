@@ -51,7 +51,7 @@ Activity logs for accountability.
 
 ## Output
 
-![image]([https://github.com/SAKTHISWAR/Resume-Analyser-with-AI/blob/main/output_image.jpeg](https://github.com/SAKTHISWAR/A-Digital-Casting-and-Talent-Collaboration-Platform-for-the-Film-Industry/blob/main/Output%20Image%203.jpeg))
+![image](https://github.com/SAKTHISWAR/Resume-Analyser-with-AI/blob/main/output_image.jpeg)
 
 Detection Accuracy: 90 %
 
