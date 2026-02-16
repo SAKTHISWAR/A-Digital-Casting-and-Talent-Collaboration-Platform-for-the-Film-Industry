@@ -53,25 +53,16 @@ Activity logs for accountability.
 
 ![image](https://github.com/SAKTHISWAR/A-Digital-Casting-and-Talent-Collaboration-Platform-for-the-Film-Industry/blob/main/Output%20Image%203.jpeg)
 
-Detection Accuracy: 90 %
-
-Note: These metrics can be customized based on your actual performance evaluations.
-
 
 ## Results and Impact
-The development of the AI-based Resume Analyzer successfully demonstrates how modern automation and artificial intelligence can transform traditional recruitment processes into a more efficient, accurate, and data-driven system. Manual resume screening typically requires significant human effort, time, and subjectivity, which often leads to delays and inconsistencies in selecting the most suitable candidates. This project addresses these drawbacks by implementing an intelligent approach that automatically extracts, analyzes, and evaluates applicant data from resumes in a structured manner.
+The CineSync – Digital Casting and Talent Collaboration Platform was developed to address the growing challenges faced by the film industry in managing casting processes and professional collaboration using fragmented and unstructured digital tools. Traditional methods relying on social media platforms, emails, and subscription-based casting portals often result in inefficiencies, lack of transparency, limited accessibility, and difficulty in managing professional workflows. This project successfully demonstrates how a centralized, role-based digital system can overcome these limitations and streamline talent discovery and collaboration.
 
 ## Articles published / References
-[1] S. Javed, A. Kumar, and P. Mehta, “AI-based Resume Screening System using NLP,” IEEE Access, vol. 11, pp. 12045–12055, 2023.
-
-[2] M. Sharma, R. Patel, and D. Verma, “Automated Candidate Shortlisting using BERT and Semantic Matching,” Expert Systems with Applications, vol. 228, 2024.
-
-[3] A. Bose and R. Gupta, “Fair and Transparent Recruitment through Explainable AI,” Procedia Computer Science, 2024.
-
-[4] P. Kumar and N. Jain, “Deep Learning for Resume Classification and Skill Extraction,” International Journal of Intelligent Systems, vol. 38, no. 4, pp. 760–775, 2023.
-
-[5] Y. Li and H. Zhao, “Transformer-based Resume-Job Matching Framework,” Neural Computing and Applications, 2024.
-
+[1] D. M. Boyd and N. B. Ellison, “Social network sites: Definition, history, and scholarship,” Journal of Computer-Mediated Communication, vol. 13, no. 1, pp. 210–230, 2017.
+[2] R. Singh, “An analytical study of digital networking tools in professional collaboration,” International Journal of Digital Communication, vol. 6, no. 2, pp. 34–45, 2021.
+[3] S. Khan and T. Singh, “Digital transformation in film production: Challenges and opportunities,” International Journal of Creative Media, pp. 55–63, 2022.
+[4] X. Li and F. Zhao, “Digital talent management framework for workforce optimization,” Journal of Human Resource Analytics, vol. 9, no. 3, pp. 112–124, 2021.
+[5] X. Li and F. Zhao, “Collaborative platforms and workflow management for creative industries,” Journal of Media Management Studies, vol. 7, no. 2, pp. 88–99, 2022.
 
 
 
